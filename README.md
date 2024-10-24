@@ -6,7 +6,6 @@ This is my implementation of a spreadsheet processor as part of a C++ project. T
 
 - **Cell Operations**: Set, copy, move, and delete cell contents.
 - **Cell Types**: Support for empty cells, numeric values, strings, and formulas.
-- **Formula Evaluation**: Evaluate cell values based on expressions. Supports standard operators and functions (`sum`, `count`, `min`, `max`, `countval`, `if`).
 - **Cyclic Dependency Detection**: Automatically detect and handle cyclic references between cells to prevent infinite loops.
 - **File I/O**: Save and load the spreadsheet to/from a file.
 - **Range Support**: Operate on rectangular ranges of cells.
